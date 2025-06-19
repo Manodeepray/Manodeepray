@@ -8,10 +8,10 @@ I enjoy solving real-world problems and building tools that help people using da
   "current_role": "Undergraduate Student",
   "goal": "AI/Machine Learning Engineer",
   "skills": {
-    "languages": ["Python", "C++", "SQL"],
+    "languages": ["Python", "C++", "C" ,"SQL"],
     "frameworks": ["TensorFlow", "PyTorch", "OpenCV", "FastAPI", "LangChain"],
-    "tools": ["Git", "Docker", "Streamlit", "Gradio", "Weights & Biases"],
-    "areas_of_interest": ["Computer Vision", "LLMs", "RAG", "Deep Learning", "Edge AI"]
+    "tools": ["Git", "Streamlit", "Gradio", "Weights & Biases"],
+    "areas_of_interest": ["Computer Vision", "LLMs", "RAG", "Agentic AI","Deep Learning", "Edge AI"]
   },
   "currently_learning": [
     "DLOps & deployment",
