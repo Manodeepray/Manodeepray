@@ -14,7 +14,7 @@ I enjoy solving real-world problems and building tools that help people using da
     ],
     "tools": [
       "Git", "GitHub", "Jupyter", "Colab", "VS Code", "Linux", 
-      "Roboflow", "Weights & Biases", "Kaggle"
+      "Roboflow", "Kaggle"
     ],
     "areas_of_interest": [
       "Computer Vision", "LLMs", "RAG", "Agentic AI", 
