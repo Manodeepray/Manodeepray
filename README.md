@@ -2,7 +2,7 @@
 
 Hi, I'm **Manodeep** — an undergraduate student passionate about becoming an **AI/Machine Learning Engineer**.  
 I enjoy solving real-world problems and building tools that help people using data and intelligent systems.
-
+``` json
 {
   "current_role": "Undergraduate Student",
   "goal": "AI/Machine Learning Engineer",
@@ -27,7 +27,7 @@ I enjoy solving real-world problems and building tools that help people using da
     "Real-time CV applications"
   ]
 }
-
+```
 
 
 
