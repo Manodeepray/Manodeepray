@@ -5,26 +5,25 @@ I enjoy solving real-world problems and building tools that help people using da
 ``` json
 {
   "current_role": "Undergraduate Student",
-  "goal": "AI/Machine Learning Engineer",
+  "goal": "Machine Learning / AI Engineer",
   "skills": {
-    "languages": ["Python", "C++", "C", "Java", "SQL", "HTML/CSS"],
+    "languages": ["Python", "C++", "C"],
     "frameworks": [
      "TensorFlow", "PyTorch", "OpenCV", "FastAPI", "LangChain",
-      "LlamaIndex", "Flask", "Gradio", "Streamlit", "Hugging Face", "RAG Pipelines"
+      "LlamaIndex", "Flask", "Gradio", "Streamlit", "Hugging Face",
     ],
     "tools": [
-      "Git", "GitHub", "Jupyter", "Colab", "VS Code", "Linux", 
-      "Roboflow", "Kaggle"
+      "Git", "GitHub", "Jupyter", "Colab",
     ],
     "areas_of_interest": [
-      "Computer Vision", "LLMs", "RAG", "Agentic AI", 
-      "Deep Learning", "Edge AI", "Prompt Engineering", "Vector Databases"
+      "Computer Vision", "LLMs", "Agentic AI", "AI safety"
+      "Deep Learning", "Edge AI",
     ]
   },
   "currently_learning": [
-    "DLOps & deployment",
-    "Transformer architectures",
-    "Real-time CV applications"
+    "Dlops"
+    "Deep learning maths",
+    "Mechanistic interpretability"
   ]
 }
 ```
