@@ -7,7 +7,7 @@ I enjoy solving real-world problems and building tools that help people using da
   "current_role": "Undergraduate Student",
   "goal": "Machine Learning / AI Engineer",
   "skills": {
-    "languages": ["Python", "C++", "C"],
+    "languages": ["Python", "C"],
     "frameworks": [
      "TensorFlow", "PyTorch", "OpenCV", "FastAPI", "LangChain",
       "LlamaIndex", "Flask", "Gradio", "Streamlit", "Hugging Face",
